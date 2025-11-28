@@ -95,8 +95,6 @@ This dashboard provides stakeholders with a holistic view of business performanc
 
 ## 📸 Dashboard Preview
 
-![Sales Performance Dashboard](Sales Performance Analytics Dashboard.png)
+![Sales_Performance_Analytics_Dashboard](Sales Performance Analytics Dashboard.png)
 
----
 
-**⭐ Star this repository if this sales dashboard helps your business analytics needs!**
